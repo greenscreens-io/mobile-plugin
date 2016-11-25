@@ -35,6 +35,9 @@ public enum Constants {
     // If trigger, value will be the name of a nevet to be triggered
     public static final String IO_GREENSCREENS_TYPE = "io.greenscreens.TYPE";
 
+    // signal plugin module to auto transfer result without additional pompting
+   public static final String IO_GREENSCREENS_AUTO_TRANSFER = "io.greenscreens.AUTO_TRANSFER";
+
     // valid only for paste mode, if set to 1 pasted value will be auto submited
     public static final String IO_GREENSCREENS_AUTO_SUBMIT = "io.greenscreens.AUTO_SUBMIT";
 
