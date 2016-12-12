@@ -24,6 +24,9 @@ public enum Constants {
     // Intent request/response code
     public static final int IO_GREENSCREENS_CODE = 99;
 
+    // URL address of GreenScreens Terminal Service
+    public static final String IO_GREENSCREENS_SERVICE = "io.greenscreens.SERVICE";
+
     // Property contains returned value (must be string)
     public static final String IO_GREENSCREENS_VALUE = "io.greenscreens.VALUE";
 
